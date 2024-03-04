@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React,Redux**
 
-- 👨‍💻 All of my projects are available at [Timebeat.shop](Timebeat.shop)
+- 👨‍💻 All of my projects are available at https://github.com/Deepasree12?tab=repositories
 
 - 💬 Ask me about **react,parcel,redux**
 
